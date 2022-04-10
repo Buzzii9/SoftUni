@@ -1,0 +1,13 @@
+C:\Users\Bazenikov\source\repos\First Steps In Coding - Exercise\09. Fish Tank\bin\Debug\netcoreapp3.1\09. Fish Tank.exe
+C:\Users\Bazenikov\source\repos\First Steps In Coding - Exercise\09. Fish Tank\bin\Debug\netcoreapp3.1\09. Fish Tank.deps.json
+C:\Users\Bazenikov\source\repos\First Steps In Coding - Exercise\09. Fish Tank\bin\Debug\netcoreapp3.1\09. Fish Tank.runtimeconfig.json
+C:\Users\Bazenikov\source\repos\First Steps In Coding - Exercise\09. Fish Tank\bin\Debug\netcoreapp3.1\09. Fish Tank.runtimeconfig.dev.json
+C:\Users\Bazenikov\source\repos\First Steps In Coding - Exercise\09. Fish Tank\bin\Debug\netcoreapp3.1\09. Fish Tank.dll
+C:\Users\Bazenikov\source\repos\First Steps In Coding - Exercise\09. Fish Tank\bin\Debug\netcoreapp3.1\09. Fish Tank.pdb
+C:\Users\Bazenikov\source\repos\First Steps In Coding - Exercise\09. Fish Tank\obj\Debug\netcoreapp3.1\09. Fish Tank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bazenikov\source\repos\First Steps In Coding - Exercise\09. Fish Tank\obj\Debug\netcoreapp3.1\09. Fish Tank.AssemblyInfoInputs.cache
+C:\Users\Bazenikov\source\repos\First Steps In Coding - Exercise\09. Fish Tank\obj\Debug\netcoreapp3.1\09. Fish Tank.AssemblyInfo.cs
+C:\Users\Bazenikov\source\repos\First Steps In Coding - Exercise\09. Fish Tank\obj\Debug\netcoreapp3.1\09. Fish Tank.csproj.CoreCompileInputs.cache
+C:\Users\Bazenikov\source\repos\First Steps In Coding - Exercise\09. Fish Tank\obj\Debug\netcoreapp3.1\09. Fish Tank.dll
+C:\Users\Bazenikov\source\repos\First Steps In Coding - Exercise\09. Fish Tank\obj\Debug\netcoreapp3.1\09. Fish Tank.pdb
+C:\Users\Bazenikov\source\repos\First Steps In Coding - Exercise\09. Fish Tank\obj\Debug\netcoreapp3.1\09. Fish Tank.genruntimeconfig.cache
