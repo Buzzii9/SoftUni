@@ -1,0 +1,14 @@
+C:\Users\Bazenikov\source\repos\Conditional Statements Advanced - Lab\04. Personal Titles\bin\Debug\netcoreapp3.1\04. Personal Titles.exe
+C:\Users\Bazenikov\source\repos\Conditional Statements Advanced - Lab\04. Personal Titles\bin\Debug\netcoreapp3.1\04. Personal Titles.deps.json
+C:\Users\Bazenikov\source\repos\Conditional Statements Advanced - Lab\04. Personal Titles\bin\Debug\netcoreapp3.1\04. Personal Titles.runtimeconfig.json
+C:\Users\Bazenikov\source\repos\Conditional Statements Advanced - Lab\04. Personal Titles\bin\Debug\netcoreapp3.1\04. Personal Titles.runtimeconfig.dev.json
+C:\Users\Bazenikov\source\repos\Conditional Statements Advanced - Lab\04. Personal Titles\bin\Debug\netcoreapp3.1\04. Personal Titles.dll
+C:\Users\Bazenikov\source\repos\Conditional Statements Advanced - Lab\04. Personal Titles\bin\Debug\netcoreapp3.1\04. Personal Titles.pdb
+C:\Users\Bazenikov\source\repos\Conditional Statements Advanced - Lab\04. Personal Titles\obj\Debug\netcoreapp3.1\04. Personal Titles.csproj.AssemblyReference.cache
+C:\Users\Bazenikov\source\repos\Conditional Statements Advanced - Lab\04. Personal Titles\obj\Debug\netcoreapp3.1\04. Personal Titles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bazenikov\source\repos\Conditional Statements Advanced - Lab\04. Personal Titles\obj\Debug\netcoreapp3.1\04. Personal Titles.AssemblyInfoInputs.cache
+C:\Users\Bazenikov\source\repos\Conditional Statements Advanced - Lab\04. Personal Titles\obj\Debug\netcoreapp3.1\04. Personal Titles.AssemblyInfo.cs
+C:\Users\Bazenikov\source\repos\Conditional Statements Advanced - Lab\04. Personal Titles\obj\Debug\netcoreapp3.1\04. Personal Titles.csproj.CoreCompileInputs.cache
+C:\Users\Bazenikov\source\repos\Conditional Statements Advanced - Lab\04. Personal Titles\obj\Debug\netcoreapp3.1\04. Personal Titles.dll
+C:\Users\Bazenikov\source\repos\Conditional Statements Advanced - Lab\04. Personal Titles\obj\Debug\netcoreapp3.1\04. Personal Titles.pdb
+C:\Users\Bazenikov\source\repos\Conditional Statements Advanced - Lab\04. Personal Titles\obj\Debug\netcoreapp3.1\04. Personal Titles.genruntimeconfig.cache
