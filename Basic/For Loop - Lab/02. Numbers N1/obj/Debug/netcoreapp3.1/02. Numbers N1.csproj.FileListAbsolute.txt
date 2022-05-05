@@ -1,0 +1,13 @@
+C:\Users\Bazenikov\source\repos\For Loop - Lab\02. Numbers N1\bin\Debug\netcoreapp3.1\02. Numbers N1.exe
+C:\Users\Bazenikov\source\repos\For Loop - Lab\02. Numbers N1\bin\Debug\netcoreapp3.1\02. Numbers N1.deps.json
+C:\Users\Bazenikov\source\repos\For Loop - Lab\02. Numbers N1\bin\Debug\netcoreapp3.1\02. Numbers N1.runtimeconfig.json
+C:\Users\Bazenikov\source\repos\For Loop - Lab\02. Numbers N1\bin\Debug\netcoreapp3.1\02. Numbers N1.runtimeconfig.dev.json
+C:\Users\Bazenikov\source\repos\For Loop - Lab\02. Numbers N1\bin\Debug\netcoreapp3.1\02. Numbers N1.dll
+C:\Users\Bazenikov\source\repos\For Loop - Lab\02. Numbers N1\bin\Debug\netcoreapp3.1\02. Numbers N1.pdb
+C:\Users\Bazenikov\source\repos\For Loop - Lab\02. Numbers N1\obj\Debug\netcoreapp3.1\02. Numbers N1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bazenikov\source\repos\For Loop - Lab\02. Numbers N1\obj\Debug\netcoreapp3.1\02. Numbers N1.AssemblyInfoInputs.cache
+C:\Users\Bazenikov\source\repos\For Loop - Lab\02. Numbers N1\obj\Debug\netcoreapp3.1\02. Numbers N1.AssemblyInfo.cs
+C:\Users\Bazenikov\source\repos\For Loop - Lab\02. Numbers N1\obj\Debug\netcoreapp3.1\02. Numbers N1.csproj.CoreCompileInputs.cache
+C:\Users\Bazenikov\source\repos\For Loop - Lab\02. Numbers N1\obj\Debug\netcoreapp3.1\02. Numbers N1.dll
+C:\Users\Bazenikov\source\repos\For Loop - Lab\02. Numbers N1\obj\Debug\netcoreapp3.1\02. Numbers N1.pdb
+C:\Users\Bazenikov\source\repos\For Loop - Lab\02. Numbers N1\obj\Debug\netcoreapp3.1\02. Numbers N1.genruntimeconfig.cache
