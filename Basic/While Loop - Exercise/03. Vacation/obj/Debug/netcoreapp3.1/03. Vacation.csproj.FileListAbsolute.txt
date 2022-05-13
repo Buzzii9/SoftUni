@@ -1,0 +1,14 @@
+C:\Users\Bazenikov\source\repos\While Loop - Exercise\03. Vacation\bin\Debug\netcoreapp3.1\03. Vacation.exe
+C:\Users\Bazenikov\source\repos\While Loop - Exercise\03. Vacation\bin\Debug\netcoreapp3.1\03. Vacation.deps.json
+C:\Users\Bazenikov\source\repos\While Loop - Exercise\03. Vacation\bin\Debug\netcoreapp3.1\03. Vacation.runtimeconfig.json
+C:\Users\Bazenikov\source\repos\While Loop - Exercise\03. Vacation\bin\Debug\netcoreapp3.1\03. Vacation.runtimeconfig.dev.json
+C:\Users\Bazenikov\source\repos\While Loop - Exercise\03. Vacation\bin\Debug\netcoreapp3.1\03. Vacation.dll
+C:\Users\Bazenikov\source\repos\While Loop - Exercise\03. Vacation\bin\Debug\netcoreapp3.1\03. Vacation.pdb
+C:\Users\Bazenikov\source\repos\While Loop - Exercise\03. Vacation\obj\Debug\netcoreapp3.1\03. Vacation.csproj.AssemblyReference.cache
+C:\Users\Bazenikov\source\repos\While Loop - Exercise\03. Vacation\obj\Debug\netcoreapp3.1\03. Vacation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bazenikov\source\repos\While Loop - Exercise\03. Vacation\obj\Debug\netcoreapp3.1\03. Vacation.AssemblyInfoInputs.cache
+C:\Users\Bazenikov\source\repos\While Loop - Exercise\03. Vacation\obj\Debug\netcoreapp3.1\03. Vacation.AssemblyInfo.cs
+C:\Users\Bazenikov\source\repos\While Loop - Exercise\03. Vacation\obj\Debug\netcoreapp3.1\03. Vacation.csproj.CoreCompileInputs.cache
+C:\Users\Bazenikov\source\repos\While Loop - Exercise\03. Vacation\obj\Debug\netcoreapp3.1\03. Vacation.dll
+C:\Users\Bazenikov\source\repos\While Loop - Exercise\03. Vacation\obj\Debug\netcoreapp3.1\03. Vacation.pdb
+C:\Users\Bazenikov\source\repos\While Loop - Exercise\03. Vacation\obj\Debug\netcoreapp3.1\03. Vacation.genruntimeconfig.cache
